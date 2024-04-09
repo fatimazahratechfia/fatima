@@ -1,0 +1,106 @@
+
+.white-padding {
+    padding:50px ;
+    background-color: white;
+}
+
+
+.gray-padding {
+    padding: 100px; 
+    background-color: rgb(196, 191, 191); 
+}
+
+
+.yellow-padding {
+    padding:50px ; 
+    background-color:rgb(247, 247, 225) ;
+ }
+
+body {
+    font-family: sans-serif;
+    margin:5px;
+    padding: 5px;
+    
+    
+     border:solid ;
+    background-color:rgb(247, 247, 225) ; 
+}
+
+header {
+    padding:30px ;
+    text-align:right ;
+}
+
+main {
+    padding:5px ;
+    font-family:sans-serif ;
+    font-weight:300 ;
+    font-size: 20px ;
+}
+
+.separator {
+    border: solid; 
+    width:100% ;
+    margin:1px ;  
+}
+
+.section {
+    padding: 10px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+}   
+
+footer {
+    background-color:white ;
+    border-top: 1px;
+    color: red; ;
+    text-align: right;
+    padding: 25px;
+    bottom:10px ;
+    width:100%;
+    border-left: 10px;
+    border-right:10px ;
+}
+
+.footer-content {
+    max-width:300px ; 
+    margin:20px ;
+    color:#000 ;
+    background-color: white;
+}
+
+footer a {
+    text-decoration:underline ; 
+    color:rgb(223, 219, 219) ; 
+}
+
+.centered-image {
+    
+    max-width:350px ; 
+    
+}
+
+.centered-square {
+    text-align:center ;
+    padding: 10px;
+    background-color:white ; 
+    border:solid ; 
+    margin:0 ;
+    width:40% ; 
+    
+}
+
+.gray-underline {
+    color: #888; 
+    text-decoration:underline ; 
+}
+
+.literature-poem {
+    margin:10px ;
+    padding: 10px; 
+    width:30% ;
+    box-sizing: border-box;
+}
+
+.literature-poem p {
+    margin:0 ;
+    line-height:1.5 ;
+}
